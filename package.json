@@ -1,0 +1,15 @@
+{
+  "name": "mongoose-schema-extended",
+  "version": "1.0.0",
+  "description": "Add extend method to mongoose schema for simple schema inheritance",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eagle-io/mongoose-schema-extended.git"
+  },
+  "author": "eagle.io",
+  "license": "MIT",
+  "dependencies": {
+    "mongoose": ">= 6.0.0"
+  }
+}
